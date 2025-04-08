@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/remalves"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
+![snake gif](https://github.com/remalves/remalves/blob/output/github-contribution-grid-snake.svg)
 <!--
 **remalves/remalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
