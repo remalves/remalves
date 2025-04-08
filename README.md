@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, eu sou Rebeca Alves, estudante de Engenharia de Software. 👋
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=remalves&show_icons=true&theme=ambient_gradient"
