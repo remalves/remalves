@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=remalves&show_icons=true" />
 </picture> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remalves&layout=compact)
+
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,html,css)](https://skillicons.dev)
 
