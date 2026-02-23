@@ -1,0 +1,26 @@
+name: Generate GitHub Activity Graph
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Atualiza todo domingo
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate activity graph
+        uses: Ashutosh00710/github-readme-activity-graph@v1.6.0
+        with:
+          github_username: remalves
+          output_file: assets/github-activity.svg
+          theme: github-dark
+
+      - name: Commit files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git commit -m "Update activity graph" || echo "No changes"
+          git push
