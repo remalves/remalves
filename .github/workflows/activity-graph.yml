@@ -2,17 +2,19 @@ name: Generate GitHub Activity Graph
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # Atualiza todo domingo
+    - cron: "0 0 * * 0"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
       - name: Generate activity graph
-        uses: Ashutosh00710/github-readme-activity-graph@v1.6.0
+        uses: Ashutosh00710/github-readme-activity-graph@master
         with:
           github_username: remalves
           output_file: assets/github-activity.svg
