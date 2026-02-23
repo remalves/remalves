@@ -145,12 +145,3 @@ Estou aprimorando continuamente meu inglês para oportunidades profissionais e i
 
 
 ---
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=remalves&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remalves&layout=compact&theme=github_dark" />
-</p>
