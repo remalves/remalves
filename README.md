@@ -1,38 +1,163 @@
-## Olá, eu sou Rebeca Alves, estudante de Engenharia de Software. 👋
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=remalves&show_icons=true&theme=ambient_gradient"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=remalves&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=remalves&show_icons=true" />
-</picture> 
+# Rebeca Martins Alves 👩‍💻
 
+<p align="left">
+  🎓 Software Engineering Student <br>
+  📊 Focused on Data & Python Development <br>
+  🤖 Interested in Artificial Intelligence <br>
+  🧬 Future Bioinformatics Researcher
+</p>
 
+---
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,html,css)](https://skillicons.dev)
+## 🌎 Choose Language | Escolha o Idioma
 
-## 
-<div> 
-  <a href = "mailto:remalves25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/remalves"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<details open>
+<summary><b>🇺🇸 English Version</b></summary>
 
+---
 
+## 👩‍💻 About Me
+
+I am a Software Engineering undergraduate focused on building strong foundations in:
+
+- Data Analysis with Python  
+- Automation and scripting  
+- SQL and database management  
+- Backend logic and structured systems  
+
+I am continuously improving my English for professional and international opportunities.
+
+🎯 **Long-term goal:** pursue postgraduate studies in Bioinformatics, combining software engineering and computational biology.
+
+---
+
+## 🛠️ Technical Skills
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" />
+               
+</p>
+
+- Python (Basic)
+- C (Academic projects)
+- JavaScript (Basic)
+- HTML
+- CSS
+
+---
 <!--
-**remalves/remalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data & Tools
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- SQL / MySQL  
+- Git & GitHub  
+- Linux  
+- File handling and structured programming  
+
+---
+
+## 📂 Highlighted Project
+
+### 🛒 Store Management System (Python)
+
+Academic project focused on:
+
+- CRUD operations  
+- Customer and product management  
+- Sales and purchase control  
+- File-based data persistence  
+- Structured menu navigation  
+
+This project strengthened my understanding of system organization, logic structuring and modular programming.
+
+---
 -->
+
+## 📬 Contact
+
+- 📧 remalves25@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/remalves  
+
+⭐ Currently seeking internship opportunities in Data, Python Development or related areas.
+
+</details>
+
+---
+
+<details>
+<summary><b>🇧🇷 Versão em Português</b></summary>
+
+---
+
+## 👩‍💻 Sobre Mim
+
+Sou estudante de Engenharia de Software com foco na construção de bases sólidas em:
+
+- Análise de Dados com Python  
+- Automação e scripts  
+- SQL e gerenciamento de bancos de dados  
+- Lógica de backend e organização de sistemas  
+
+Estou aprimorando continuamente meu inglês para oportunidades profissionais e internacionais.
+
+🎯 **Objetivo de longo prazo:** realizar pós-graduação em Bioinformática, unindo engenharia de software e biologia computacional.
+
+---
+
+## 🛠️ Competências Técnicas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" />
+</p>
+
+- Python (Basic)
+- C (Academic projects)
+- JavaScript (Basic)
+- HTML
+- CSS
+
+---
+<!--Inserir Projetos aqui -->
+---
+
+## 📬 Contato
+
+- 📧 remalves25@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/remalves  
+
+⭐ Buscando oportunidades de estágio em Dados, Python ou áreas relacionadas.
+
+</details>
+
+
+---
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=remalves&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remalves&layout=compact&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=remalves&theme=transparent" />
+</p>
