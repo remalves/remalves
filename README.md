@@ -146,18 +146,8 @@ Estou aprimorando continuamente meu inglês para oportunidades profissionais e i
 
 ---
 
----
-
-## 📈 GitHub Activity
+## 📊 Weekly Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=remalves&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remalves&layout=compact&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=remalves&theme=transparent" />
+  <img src="./assets/github-activity.svg" />
 </p>
