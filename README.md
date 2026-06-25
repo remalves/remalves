@@ -1,7 +1,6 @@
 <p align="right">
-  <strong>Languages:</strong>
-  <a href="./README.md">English</a> |
-  <a href="./README.pt-BR.md">Português</a>
+  <a href="./README.md">🇺🇸 English</a> |
+  <a href="./README.pt-BR.md">🇧🇷 Português</a>
 </p>
 
 # Hey there! 👋 
