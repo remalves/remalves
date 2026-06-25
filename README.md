@@ -46,7 +46,7 @@ Estou sempre aberta a aprender coisas novas (e desafios me deixam animada! 💪)
 
 ---
 
-💡 Estou preparada para novos desafios e super animada para aprender. Se você tem uma oportunidade ou só quer bater um papo sobre código, tecnologia ou impacto ambiental — chama! 😊
+💡 Estou preparada para novos desafios e super animada para aprender. Se você tem uma oportunidade ou só quer bater um papo sobre tecnologia — chama! 😊
 
 ---
 
@@ -97,7 +97,7 @@ I'm always open to learning new things (and challenges get me excited! 💪). I 
 
 ---
 
-💡 I'm ready for new challenges and excited to learn. If you have an opportunity or just want to chat about code, technology, or environmental impact, feel free to reach out!
+💡 I'm ready for new challenges and excited to learn. If you have an opportunity or just want to chat about technology - feel free to reach out!
 
 ---
 
