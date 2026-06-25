@@ -1,5 +1,8 @@
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
-[![Português](https://img.shields.io/badge/lang-Português-green.svg)](README.pt-BR.md)
+<p align="right">
+  <strong>Languages:</strong>
+  <a href="./README.md">English</a> |
+  <a href="./README.pt-BR.md">Português</a>
+</p>
 
 # Hey there! 👋 
 
