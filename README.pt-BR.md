@@ -1,6 +1,3 @@
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
-[![Português](https://img.shields.io/badge/lang-Português-green.svg)](README.pt-BR.md)
-
 # Olá! 👋 
 
 Sou **Rebeca**, estudante de **Engenharia de Software** no IFSP São Carlos em busca da minha primeira oportunidade de estágio 🚀
