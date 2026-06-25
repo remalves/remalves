@@ -1,4 +1,4 @@
----# Hey there! 👋 
+# Hey there! 👋 
 
 I'm **Rebeca**, a **Software Engineering** student at IFSP São Carlos looking for my first internship opportunity 🚀
 
